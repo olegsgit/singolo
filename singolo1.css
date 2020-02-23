@@ -131,7 +131,7 @@ ul {
   left: 72px;
   width: 240px;
   height: 483px;
-  background: url("./assets/img/phone1.png");
+  background: url("./assets/img/iphone-horizontal.png");
 }
 
 .phone2 {
@@ -140,7 +140,7 @@ ul {
   left: 385px;
   width: 484px;
   height: 240px;
-  background: url("./assets/img/phone2.png");
+  background: url("./assets/img/iphone-vertical.png");
 }
 
 .arrow_left {
